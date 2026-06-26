@@ -138,3 +138,5 @@ con las medidas cuantitativas de la venta.
 ---
 
 ## Star Schema
+
+![ERD Silver](docs/diagram_star_schema.png)
