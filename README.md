@@ -150,6 +150,6 @@ JOIN gold.dim_tiempo AS t ON o.fecha_orden = t.fecha
 
 ### Teófilo Correa Rojas
 
-**Project Manager Digital | Data analytic~~~~**
+**Project Manager Digital | Data analytic**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/teófilo-correa-rojas/)
