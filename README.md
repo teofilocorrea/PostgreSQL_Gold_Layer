@@ -1,4 +1,4 @@
-![Banner](asset/table_design_SQL_gold.png)
+![Banner](asset/cover_gold_layer_SQL.png)
 
 ## 📌 Descripción
 
